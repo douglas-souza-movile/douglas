@@ -7,6 +7,4 @@ asas
 da
 sdd
 iop
-asd
-as
 d
